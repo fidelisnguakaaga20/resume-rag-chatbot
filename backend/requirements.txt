@@ -1,9 +1,5 @@
 fastapi
 uvicorn[standard]
-sentence-transformers
-transformers
-torch
-chromadb
-langchain-community
-langchain-text-splitters
+openai
 python-multipart
+pypdf
