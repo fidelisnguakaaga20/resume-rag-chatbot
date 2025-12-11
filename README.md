@@ -1,8 +1,9 @@
 
 ## 🎥 Demo (Loom + YouTube)
 
-- 🎥 Loom: `<https://www.loom.com/share/f895833d582d443c8362bd38258364fe?from_recorder=1&focus_title=1>`
-- 🎥 YouTube (Unlisted): `<https://youtu.be/O3s2rzXd53M>` 
+- 🎥 Loom: [Watch on Loom](https://www.loom.com/share/f895833d582d443c8362bd38258364fe?from_recorder=1&focus_title=1)
+- 🎥 YouTube (Unlisted): [Watch on YouTube](https://youtu.be/O3s2rzXd53M)
+ 
 
 The demo shows:
 
